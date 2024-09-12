@@ -1,0 +1,181 @@
+2024-08-20 11:47:21 [main] INFO  com.training.CRUDEmployee.repository.impl.FilesystemEmployeeRepository [getEmployeeById] - Employee returned
+2024-08-20 11:56:57 [main] INFO  com.training.CRUDEmployee.repository.impl.FilesystemEmployeeRepository [getEmployeeById] - Employee returned
+2024-08-22 18:32:02 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:32:02 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:32:14 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 18:32:15 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:32:15 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:32:15 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 18:34:04 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:34:04 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:34:10 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 18:34:11 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:34:11 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:34:11 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 18:35:52 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:35:52 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:35:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 18:36:00 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:36:00 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:36:00 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 18:40:37 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:40:37 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:40:43 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 18:40:44 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:40:44 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:40:44 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 18:40:52 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - Updated employee received
+2024-08-22 18:42:54 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:42:54 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:42:57 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:42:57 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:42:57 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:42:57 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:43:09 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 18:43:09 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:43:09 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:43:09 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 18:43:17 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - Updated employee received
+2024-08-22 18:43:17 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 1
+2024-08-22 18:43:17 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 2
+2024-08-22 18:43:17 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 3
+2024-08-22 18:43:17 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 4
+2024-08-22 18:44:31 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:44:31 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:44:35 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 18:44:35 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:44:35 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:44:35 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 18:44:44 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - Updated employee received
+2024-08-22 18:44:44 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 1
+2024-08-22 18:44:44 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 2
+2024-08-22 18:44:44 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 3
+2024-08-22 18:44:44 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 4
+2024-08-22 18:44:44 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 5
+2024-08-22 18:46:08 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:46:08 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:46:20 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 18:46:20 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:46:20 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:46:20 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 18:46:24 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - Updated employee received
+2024-08-22 18:46:24 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 1
+2024-08-22 18:46:24 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 2
+2024-08-22 18:46:24 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 3
+2024-08-22 18:46:24 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 4
+2024-08-22 18:46:24 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 5
+2024-08-22 18:47:52 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:47:52 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:47:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 18:48:00 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:48:00 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:48:00 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 18:48:03 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - Updated employee received
+2024-08-22 18:48:03 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 1
+2024-08-22 18:48:03 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 2
+2024-08-22 18:48:03 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 3
+2024-08-22 18:48:03 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 4
+2024-08-22 18:48:03 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 5
+2024-08-22 18:48:03 [main] INFO  com.training.CRUDEmployee.service.InDatabaseEmployeeService [updateEmployee] - 6
+2024-08-22 18:48:03 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Upadate Employee method called...
+2024-08-22 18:48:03 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Employee updated successfully
+2024-08-22 18:48:03 [main] INFO  com.training.CRUDEmployee.Controllers.InDatabaseController [run] - 6
+2024-08-22 18:48:10 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:48:10 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:48:10 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:48:10 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 19:45:18 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-23 19:45:18 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 19:45:24 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 19:45:24 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 19:45:24 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 19:45:24 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 19:45:24 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 19:45:24 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 01:35:45 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-24 01:35:45 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-24 01:35:48 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-24 01:35:48 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-24 02:14:12 [main] INFO  com.training.CRUDEmployee.repository.impl.FilesystemEmployeeRepository [getEmployeeById] - Employee returned successfully
+2024-08-24 02:15:32 [main] INFO  com.training.CRUDEmployee.repository.impl.FilesystemEmployeeRepository [getEmployeeById] - Employee returned successfully
+2024-08-24 02:17:21 [main] INFO  com.training.CRUDEmployee.repository.impl.FilesystemEmployeeRepository [getEmployeeById] - Employee returned successfully
+2024-08-24 02:18:01 [main] INFO  com.training.CRUDEmployee.repository.impl.FilesystemEmployeeRepository [getEmployeeById] - Employee returned successfully
+2024-08-24 02:18:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-24 02:18:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-24 02:19:03 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:19:03 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:19:03 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:19:03 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:19:03 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:19:03 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:19:03 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:19:03 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:19:03 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:19:03 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:19:41 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [containsDepartmentId] - Checking department id
+2024-08-24 02:19:41 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [containsDepartmentId] - containsDepartmentName returned
+2024-08-24 02:19:41 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:19:41 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:19:47 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:19:47 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:19:47 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:19:47 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:19:47 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:19:47 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:19:47 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:19:47 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:19:47 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:19:47 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:24:28 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-24 02:24:28 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-24 02:24:53 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [containsDepartmentId] - Checking department id
+2024-08-24 02:24:54 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [containsDepartmentId] - containsDepartmentName returned
+2024-08-24 02:24:54 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:24:54 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:24:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:24:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:24:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:24:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:24:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:24:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:24:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:24:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:24:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:24:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:24:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:24:59 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:25:49 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [containsDepartmentId] - Checking department id
+2024-08-24 02:25:49 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [containsDepartmentId] - containsDepartmentName returned
+2024-08-24 02:25:52 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-24 02:25:52 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-24 02:26:04 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [addDepartment] - query excution started
+2024-08-24 02:26:04 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [addDepartment] - connection Created
+2024-08-24 02:26:04 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [addDepartment] - Department Added successfully
+2024-08-24 02:26:24 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [containsDepartmentId] - Checking department id
+2024-08-24 02:26:24 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [containsDepartmentId] - containsDepartmentName returned
+2024-08-24 02:26:28 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-24 02:26:28 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-24 02:26:36 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-24 02:26:36 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-24 02:26:51 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:26:51 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:26:51 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:26:51 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:26:51 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:26:51 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:26:51 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:26:51 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:26:51 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:26:51 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:26:51 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:26:51 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:30:25 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:30:25 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:30:25 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:30:25 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:30:25 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:30:25 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:30:25 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:30:25 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 02:30:25 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 02:30:25 [main] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name

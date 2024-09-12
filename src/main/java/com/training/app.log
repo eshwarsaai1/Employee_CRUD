@@ -1,0 +1,1307 @@
+2024-08-22 12:42:34 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 12:42:34 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-22 12:42:36 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-22 12:43:26 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 12:43:26 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 12:43:26 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 12:43:43 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-22 12:43:43 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-22 12:53:19 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 12:53:19 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 12:53:19 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 12:53:19 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 12:54:50 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 12:54:50 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 12:54:50 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 12:54:57 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 12:54:57 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 12:54:57 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 12:55:04 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 12:55:04 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 12:55:04 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 13:02:13 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 13:02:13 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 13:02:14 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 13:04:20 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 13:04:20 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 13:04:20 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 13:04:20 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 13:04:20 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 13:04:20 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 14:13:31 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 14:13:31 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 14:13:31 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 14:13:32 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 14:13:32 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 14:13:32 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 14:17:56 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 14:17:56 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.servlets.employee.DeleteEmployee [doDelete] - Employee deleted Successfully
+2024-08-22 14:18:46 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-22 14:18:46 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-22 14:21:29 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 14:25:10 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 14:25:10 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 14:25:10 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 14:25:10 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 14:25:10 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 14:26:09 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 14:26:09 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.servlets.employee.DeleteEmployee [doDelete] - Employee deleted Successfully
+2024-08-22 14:26:38 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 14:26:38 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 14:26:38 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 14:59:50 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 14:59:50 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 14:59:50 [http-nio-8080-exec-5] DEBUG com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - generating employee id...
+2024-08-22 14:59:51 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - EmployeeId generated.
+2024-08-22 14:59:51 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 14:59:51 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 14:59:51 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.servlets.employee.AddEmployee [doPost] - Employee added successfully
+2024-08-22 15:00:23 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 15:00:23 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 15:00:23 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 15:00:31 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 15:00:31 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 15:00:31 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 15:00:31 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 15:00:38 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-22 15:00:38 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 15:00:38 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 15:00:38 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-22 15:00:49 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 15:00:49 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 15:00:49 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 15:00:49 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 15:00:49 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 15:01:01 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-22 15:01:01 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-22 18:09:15 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:09:15 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-22 18:09:16 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-22 18:12:53 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:12:53 [http-nio-8080-exec-8] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+java.lang.NullPointerException: Cannot invoke "com.training.CRUDEmployee.models.Employee.getEmployeeId()" because "employee" is null
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:27) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-22 18:12:53 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 18:13:16 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:13:16 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:13:16 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:13:16 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:13:16 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:14:15 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:14:15 [http-nio-8080-exec-4] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+java.lang.NullPointerException: Cannot invoke "com.training.CRUDEmployee.models.Employee.getEmployeeId()" because "employee" is null
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:27) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-22 18:14:15 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 18:14:32 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:14:32 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:14:32 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:14:32 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:14:32 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:17:46 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:17:46 [http-nio-8080-exec-8] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+java.lang.NullPointerException: Cannot invoke "com.training.CRUDEmployee.models.Employee.getEmployeeId()" because "employee" is null
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:27) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-22 18:17:46 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 18:19:35 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:19:35 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:19:35 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 3 column 6 path $.employeeId
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at com.google.gson.Gson.fromJson(Gson.java:1375) ~[gson-2.11.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1262) ~[gson-2.11.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1199) ~[gson-2.11.0.jar:?]
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:25) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 3 column 6 path $.employeeId
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1754) ~[gson-2.11.0.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:574) ~[gson-2.11.0.jar:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:498) ~[gson-2.11.0.jar:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:510) ~[gson-2.11.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1361) ~[gson-2.11.0.jar:?]
+	... 27 more
+2024-08-22 18:19:35 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 18:22:58 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:22:58 [http-nio-8080-exec-5] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+java.lang.NullPointerException: Cannot invoke "com.training.CRUDEmployee.models.Department.getDeptId()" because the return value of "com.training.CRUDEmployee.models.Employee.getDepartment()" is null
+	at com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository.updateEmployee(InDatabaseEmployeeRepository.java:99) ~[classes/:?]
+	at com.training.CRUDEmployee.service.InDatabaseEmployeeService.updateEmployee(InDatabaseEmployeeService.java:29) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:26) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-22 18:22:58 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 18:23:37 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:23:39 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:23:39 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:23:39 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:23:39 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:25:34 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:25:34 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:25:34 [http-nio-8080-exec-3] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+java.lang.NullPointerException: Cannot invoke "com.training.CRUDEmployee.models.Department.getDeptId()" because the return value of "com.training.CRUDEmployee.models.Employee.getDepartment()" is null
+	at com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository.updateEmployee(InDatabaseEmployeeRepository.java:99) ~[classes/:?]
+	at com.training.CRUDEmployee.service.InDatabaseEmployeeService.updateEmployee(InDatabaseEmployeeService.java:29) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:26) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-22 18:25:34 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 18:26:06 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:26:08 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:26:08 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:26:08 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 18:26:08 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 18:26:35 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:26:35 [http-nio-8080-exec-10] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+java.lang.NullPointerException: Cannot invoke "com.training.CRUDEmployee.models.Department.getDeptId()" because the return value of "com.training.CRUDEmployee.models.Employee.getDepartment()" is null
+	at com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository.updateEmployee(InDatabaseEmployeeRepository.java:99) ~[classes/:?]
+	at com.training.CRUDEmployee.service.InDatabaseEmployeeService.updateEmployee(InDatabaseEmployeeService.java:29) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:26) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-22 18:26:35 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 18:50:14 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:50:14 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:50:15 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.service.InDatabaseEmployeeService [updateEmployee] - 6
+2024-08-22 18:50:15 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Upadate Employee method called...
+2024-08-22 18:50:15 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+java.lang.NullPointerException: Cannot invoke "com.training.CRUDEmployee.models.Department.getDeptId()" because the return value of "com.training.CRUDEmployee.models.Employee.getDepartment()" is null
+	at com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository.updateEmployee(InDatabaseEmployeeRepository.java:100) ~[classes/:?]
+	at com.training.CRUDEmployee.service.InDatabaseEmployeeService.updateEmployee(InDatabaseEmployeeService.java:33) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:27) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-22 18:50:15 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 18:53:52 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:53:52 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.service.InDatabaseEmployeeService [updateEmployee] - 6
+2024-08-22 18:53:52 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Upadate Employee method called...
+2024-08-22 18:53:52 [http-nio-8080-exec-6] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+java.lang.NullPointerException: Cannot invoke "com.training.CRUDEmployee.models.Department.getDeptId()" because the return value of "com.training.CRUDEmployee.models.Employee.getDepartment()" is null
+	at com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository.updateEmployee(InDatabaseEmployeeRepository.java:100) ~[classes/:?]
+	at com.training.CRUDEmployee.service.InDatabaseEmployeeService.updateEmployee(InDatabaseEmployeeService.java:33) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:27) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-22 18:53:52 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 18:54:54 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:54:54 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.service.InDatabaseEmployeeService [updateEmployee] - 6
+2024-08-22 18:54:54 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Upadate Employee method called...
+2024-08-22 18:54:54 [http-nio-8080-exec-8] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+java.lang.NullPointerException: Cannot invoke "com.training.CRUDEmployee.models.Department.getDeptId()" because the return value of "com.training.CRUDEmployee.models.Employee.getDepartment()" is null
+	at com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository.updateEmployee(InDatabaseEmployeeRepository.java:100) ~[classes/:?]
+	at com.training.CRUDEmployee.service.InDatabaseEmployeeService.updateEmployee(InDatabaseEmployeeService.java:33) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:27) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-22 18:54:54 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 18:57:05 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 18:57:05 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:57:05 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.service.InDatabaseEmployeeService [updateEmployee] - 6
+2024-08-22 18:57:05 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Upadate Employee method called...
+2024-08-22 18:57:05 [http-nio-8080-exec-1] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+java.lang.NullPointerException: Cannot invoke "com.training.CRUDEmployee.models.Department.getDeptId()" because the return value of "com.training.CRUDEmployee.models.Employee.getDepartment()" is null
+	at com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository.updateEmployee(InDatabaseEmployeeRepository.java:102) ~[classes/:?]
+	at com.training.CRUDEmployee.service.InDatabaseEmployeeService.updateEmployee(InDatabaseEmployeeService.java:33) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:29) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-22 18:58:03 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 18:58:03 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.service.InDatabaseEmployeeService [updateEmployee] - 6
+2024-08-22 18:58:03 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Upadate Employee method called...
+2024-08-22 18:58:05 [http-nio-8080-exec-5] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`employee_db`.`employee`, CONSTRAINT `fk_EMPLOYEE_DEPARTMENT` FOREIGN KEY (`DEPARTMENT_ID`) REFERENCES `department` (`DEPARTMENT_ID`))
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:109) ~[mysql-connector-j-9.0.0.jar:9.0.0]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114) ~[mysql-connector-j-9.0.0.jar:9.0.0]
+	at com.mysql.cj.jdbc.StatementImpl.executeUpdateInternal(StatementImpl.java:1537) ~[mysql-connector-j-9.0.0.jar:9.0.0]
+	at com.mysql.cj.jdbc.StatementImpl.executeLargeUpdate(StatementImpl.java:2384) ~[mysql-connector-j-9.0.0.jar:9.0.0]
+	at com.mysql.cj.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1410) ~[mysql-connector-j-9.0.0.jar:9.0.0]
+	at com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository.updateEmployee(InDatabaseEmployeeRepository.java:111) ~[classes/:?]
+	at com.training.CRUDEmployee.service.InDatabaseEmployeeService.updateEmployee(InDatabaseEmployeeService.java:33) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:29) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-22 18:59:01 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-22 18:59:01 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-22 19:00:25 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 19:00:25 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.service.InDatabaseEmployeeService [updateEmployee] - 6
+2024-08-22 19:00:25 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Upadate Employee method called...
+2024-08-22 19:00:25 [http-nio-8080-exec-4] ERROR com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Exception:
+java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`employee_db`.`employee`, CONSTRAINT `fk_EMPLOYEE_DEPARTMENT` FOREIGN KEY (`DEPARTMENT_ID`) REFERENCES `department` (`DEPARTMENT_ID`))
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:109) ~[mysql-connector-j-9.0.0.jar:9.0.0]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114) ~[mysql-connector-j-9.0.0.jar:9.0.0]
+	at com.mysql.cj.jdbc.StatementImpl.executeUpdateInternal(StatementImpl.java:1537) ~[mysql-connector-j-9.0.0.jar:9.0.0]
+	at com.mysql.cj.jdbc.StatementImpl.executeLargeUpdate(StatementImpl.java:2384) ~[mysql-connector-j-9.0.0.jar:9.0.0]
+	at com.mysql.cj.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1410) ~[mysql-connector-j-9.0.0.jar:9.0.0]
+	at com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository.updateEmployee(InDatabaseEmployeeRepository.java:111) ~[classes/:?]
+	at com.training.CRUDEmployee.service.InDatabaseEmployeeService.updateEmployee(InDatabaseEmployeeService.java:33) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.employee.UpdateEmployee.doPut(UpdateEmployee.java:29) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:593) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-22 19:01:59 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 19:01:59 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 19:02:00 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.service.InDatabaseEmployeeService [updateEmployee] - 6
+2024-08-22 19:02:00 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Upadate Employee method called...
+2024-08-22 19:02:01 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Employee updated successfully
+2024-08-22 19:02:01 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 19:02:17 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 19:02:17 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 19:02:17 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 19:02:17 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 19:02:17 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 21:21:46 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-22 21:21:46 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 21:21:48 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 21:21:48 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 21:21:48 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 21:21:48 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 21:22:47 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 21:22:47 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Upadate Employee method called...
+2024-08-22 21:22:47 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Employee updated successfully
+2024-08-22 21:22:47 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 21:23:09 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 21:23:09 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 21:23:09 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 21:23:09 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 21:23:09 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 21:33:32 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 21:33:32 [http-nio-8080-exec-2] DEBUG com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - generating employee id...
+2024-08-22 21:33:32 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - EmployeeId generated.
+2024-08-22 21:33:32 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 21:33:32 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 21:33:32 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.servlets.employee.AddEmployee [doPost] - Employee added successfully
+2024-08-22 21:33:51 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 21:33:51 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 21:33:51 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 21:33:51 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 21:33:51 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 21:33:51 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 21:33:51 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 21:35:10 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 21:35:10 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Upadate Employee method called...
+2024-08-22 21:35:10 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Employee updated successfully
+2024-08-22 21:35:10 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-22 21:35:22 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 21:35:22 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 21:35:22 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 21:35:22 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 21:35:22 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 21:35:22 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 21:35:22 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 23:19:27 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 23:19:27 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 23:19:27 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 23:19:27 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 23:19:27 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 23:19:27 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 23:19:27 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 23:19:44 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 23:19:44 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.servlets.employee.DeleteEmployee [doDelete] - Employee deleted Successfully
+2024-08-22 23:19:49 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-22 23:19:49 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 23:19:49 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-22 23:19:49 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-22 23:19:49 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 11:57:07 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-23 11:57:07 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 11:57:08 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.servlets.employee.DeleteEmployee [doDelete] - Employee deleted Successfully
+2024-08-23 11:57:15 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 11:57:15 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-23 11:57:15 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 11:57:15 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 11:57:15 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-23 11:57:19 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 11:57:19 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 11:57:19 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 11:57:19 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 11:57:19 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 11:57:48 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 11:57:48 [http-nio-8080-exec-7] DEBUG com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - generating employee id...
+2024-08-23 11:57:48 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - EmployeeId generated.
+2024-08-23 11:57:48 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 11:57:48 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 11:57:48 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.servlets.employee.AddEmployee [doPost] - Employee added successfully
+2024-08-23 11:57:54 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 11:57:55 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 11:57:55 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 11:57:55 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 11:57:55 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 11:57:55 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 11:57:55 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 12:19:34 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-23 12:19:34 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 12:19:35 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 12:19:36 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 12:19:36 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 12:19:36 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 12:19:36 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 12:19:36 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 12:24:59 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 12:24:59 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.servlets.employee.DeleteEmployee [doDelete] - Employee deleted Successfully
+2024-08-23 12:25:03 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 12:25:03 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 12:25:03 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 12:25:03 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 12:25:03 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 12:25:10 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 12:25:10 [http-nio-8080-exec-7] DEBUG com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - generating employee id...
+2024-08-23 12:25:10 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - EmployeeId generated.
+2024-08-23 12:25:10 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 12:25:10 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 12:25:10 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.servlets.employee.AddEmployee [doPost] - Employee added successfully
+2024-08-23 12:25:13 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 12:25:13 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 12:25:14 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 12:25:14 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 12:25:14 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 12:25:14 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 12:25:14 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 12:25:30 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 12:25:30 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Upadate Employee method called...
+2024-08-23 12:25:30 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [updateEmployee] - Employee updated successfully
+2024-08-23 12:25:30 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.servlets.employee.UpdateEmployee [doPut] - Employee updated successfully
+2024-08-23 12:25:39 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 12:25:39 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 12:25:39 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 12:25:39 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 12:25:39 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 12:25:39 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 12:25:39 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 19:37:37 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:48) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:38:09 [http-nio-8080-exec-6] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:48) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:38:14 [http-nio-8080-exec-8] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:48) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:40:05 [http-nio-8080-exec-1] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:49) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:40:05 [http-nio-8080-exec-1] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 19:42:17 [http-nio-8080-exec-7] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:49) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:42:17 [http-nio-8080-exec-7] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 19:43:56 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:49) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:43:56 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 19:54:35 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:51) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:54:35 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 19:55:05 [http-nio-8080-exec-5] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:51) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:55:05 [http-nio-8080-exec-5] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 19:55:46 [http-nio-8080-exec-1] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:51) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:55:46 [http-nio-8080-exec-1] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 19:55:49 [http-nio-8080-exec-3] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:51) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:55:49 [http-nio-8080-exec-3] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 19:56:19 [http-nio-8080-exec-4] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:51) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:56:19 [http-nio-8080-exec-4] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 19:57:46 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:52) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:57:46 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 19:57:50 [http-nio-8080-exec-3] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:52) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:57:50 [http-nio-8080-exec-3] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 19:59:54 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:52) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 19:59:54 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 20:00:22 [http-nio-8080-exec-1] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:50) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 20:00:22 [http-nio-8080-exec-1] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 20:03:54 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:53) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 20:03:54 [http-nio-8080-exec-2] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 20:04:16 [http-nio-8080-exec-5] ERROR com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - Exception
+java.sql.SQLException: No suitable driver found for root
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
+	at com.training.CRUDEmployee.servlets.Login.validateAndGetRole(Login.java:53) ~[classes/:?]
+	at com.training.CRUDEmployee.servlets.Login.doGet(Login.java:28) ~[classes/:?]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[servlet-api.jar:6.0]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[servlet-api.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:10.1.28]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[catalina.jar:10.1.28]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:10.1.28]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:10.1.28]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-08-23 20:04:16 [http-nio-8080-exec-5] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-23 22:13:32 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-23 22:13:32 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 22:13:32 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication successful
+2024-08-23 22:13:32 [http-nio-8080-exec-8] DEBUG com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - generating employee id...
+2024-08-23 22:13:32 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - EmployeeId generated.
+2024-08-23 22:13:32 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.servlets.employee.AddEmployee [doPost] - Employee added successfully
+2024-08-23 22:13:48 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 22:13:48 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication successful
+2024-08-23 22:13:48 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:13:48 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:13:48 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:13:48 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:13:48 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:13:48 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:13:48 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:13:48 [http-nio-8080-exec-9] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:17:10 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-23 22:17:10 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 22:17:11 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication successful
+2024-08-23 22:17:11 [http-nio-8080-exec-4] DEBUG com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - generating employee id...
+2024-08-23 22:17:11 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - EmployeeId generated.
+2024-08-23 22:17:11 [http-nio-8080-exec-4] INFO  com.training.CRUDEmployee.servlets.employee.AddEmployee [doPost] - Employee added successfully
+2024-08-23 22:17:17 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 22:17:17 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication successful
+2024-08-23 22:17:17 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:17:17 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:17:17 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:17:17 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:17:17 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:17:17 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:17:17 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:17:17 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:17:17 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:17:17 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:32:50 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-23 22:32:50 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 22:32:50 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication failed
+2024-08-23 22:32:50 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - authCookie not found
+2024-08-23 22:33:02 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 22:33:02 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication failed
+2024-08-23 22:33:02 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - authCookie not found
+2024-08-23 22:33:06 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 22:33:06 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication failed
+2024-08-23 22:33:06 [http-nio-8080-exec-5] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - authCookie not found
+2024-08-23 22:33:27 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 22:33:27 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication successful
+2024-08-23 22:33:27 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:33:28 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:33:28 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:33:28 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:33:28 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:33:28 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:33:28 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:33:28 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:33:28 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:33:28 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:33:32 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication successful
+2024-08-23 22:33:32 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - Get employee by id method called
+2024-08-23 22:33:32 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:33:32 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:33:32 [http-nio-8080-exec-7] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getEmployeeById] - getEmployeeById returned:
+2024-08-23 22:33:48 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 22:33:48 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication successful
+2024-08-23 22:38:56 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 22:38:56 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication successful
+2024-08-23 22:38:56 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.servlets.employee.DeleteEmployee [doDelete] - Employee deleted Successfully
+2024-08-23 22:39:04 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 22:39:04 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication successful
+2024-08-23 22:39:04 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:39:04 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:39:04 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:39:04 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:39:04 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:39:04 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:39:04 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-23 22:39:04 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-23 22:41:56 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-23 22:41:56 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication successful
+2024-08-23 22:41:56 [http-nio-8080-exec-6] DEBUG com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - generating employee id...
+2024-08-23 22:41:56 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [generateEmployeeId] - EmployeeId generated.
+2024-08-23 22:41:56 [http-nio-8080-exec-6] INFO  com.training.CRUDEmployee.servlets.employee.AddEmployee [doPost] - Employee added successfully
+2024-08-24 20:28:29 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-24 20:28:29 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-24 20:30:59 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-24 20:31:00 [http-nio-8080-exec-8] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getAllDepartment] - getAllDepartment called...
+2024-08-24 20:32:20 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - validating user...
+2024-08-24 20:32:20 [http-nio-8080-exec-10] INFO  com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - User validated
+2024-08-24 20:32:20 [http-nio-8080-exec-10] ERROR com.training.CRUDEmployee.servlets.Login [doGet] - Invalid credentials
+2024-08-24 20:32:46 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - validating user...
+2024-08-24 20:32:46 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - User validated
+2024-08-24 20:32:46 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.servlets.Login [doGet] - Login successful
+2024-08-24 20:33:06 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication successful
+2024-08-24 20:33:06 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 20:33:06 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 20:33:06 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 20:33:06 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 20:33:06 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 20:33:06 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 20:33:06 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 20:33:07 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 20:33:07 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 20:33:07 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 20:33:07 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.servlets.employee.DeleteEmployee [doGet] - Retrieved employees
+2024-08-24 20:33:40 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - validating user...
+2024-08-24 20:33:40 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.servlets.Login [validateAndGetRole] - User validated
+2024-08-24 20:33:40 [http-nio-8080-exec-2] INFO  com.training.CRUDEmployee.servlets.Login [doGet] - Login successful
+2024-08-24 20:33:45 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication successful
+2024-08-24 20:33:45 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 20:33:45 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 20:33:45 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 20:33:45 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 20:33:45 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 20:33:45 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 20:33:45 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 20:33:45 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 20:33:45 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method called...
+2024-08-24 20:33:45 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getDepartmentNameById] - getDepartmentNameById Method returned Department Name
+2024-08-24 20:33:45 [http-nio-8080-exec-1] INFO  com.training.CRUDEmployee.servlets.employee.DeleteEmployee [doGet] - Retrieved employees
+2024-08-24 20:36:22 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseDepartmentRepository [getInstance] - Department DataBase Instance created
+2024-08-24 20:36:22 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.repository.impl.InDatabaseEmployeeRepository [getInstance] - InDatabaseDepartmentRepository instantiated
+2024-08-24 20:36:22 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - User Authentication failed
+2024-08-24 20:36:22 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.servlets.Login [validateUser] - authCookie not found
+2024-08-24 20:36:22 [http-nio-8080-exec-3] INFO  com.training.CRUDEmployee.servlets.employee.DeleteEmployee [doGet] - Attempted without Login
